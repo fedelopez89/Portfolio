@@ -30,7 +30,7 @@ const Experience = () => {
             </div>
             <button>
                 <i className="fa fa-download fa-2x" aria-hidden="true"> </i>
-                <a href="/pdf/Resume_LOPEZ_Federico.pdf" download="Resume_LOPEZ_Federico.pdf" target="_blank" rel="noreferrer">
+                <a href="./pdf/Resume_LOPEZ_Federico.pdf" download="Resume_LOPEZ_Federico.pdf" target="_blank" rel="noreferrer">
                     RESUME
                 </a>
             </button>
