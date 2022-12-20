@@ -1,6 +1,6 @@
 {
-  "name": "portfolio",
-  "homepage": "http://fedelopez89.github.io/portfolio",
+  "name": "resume",
+  "homepage": "http://fedelopez89.github.io/resume",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
